@@ -11,7 +11,7 @@ application/logs/*
 # PDT-specific
 .buildpath
 .project
-
+*.bak
 
 .settings/
 

@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = '115.156.232.46';
 $db['default']['username'] = 'codeIgniter';
 $db['default']['password'] = '123456';
 $db['default']['database'] = 'codeIgniter';
